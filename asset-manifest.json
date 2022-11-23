@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/react_search_ring/static/css/main.c7ceaac6.css",
+    "main.js": "/react_search_ring/static/js/main.b6f49dac.js",
+    "static/js/787.f99c86d6.chunk.js": "/react_search_ring/static/js/787.f99c86d6.chunk.js",
+    "static/media/diamond-ring.png": "/react_search_ring/static/media/diamond-ring.5ae7cb9b2d267a774183.png",
+    "index.html": "/react_search_ring/index.html",
+    "main.c7ceaac6.css.map": "/react_search_ring/static/css/main.c7ceaac6.css.map",
+    "main.b6f49dac.js.map": "/react_search_ring/static/js/main.b6f49dac.js.map",
+    "787.f99c86d6.chunk.js.map": "/react_search_ring/static/js/787.f99c86d6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c7ceaac6.css",
+    "static/js/main.b6f49dac.js"
+  ]
+}

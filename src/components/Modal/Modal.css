@@ -1,0 +1,26 @@
+.modal-wrap {
+	position: fixed;
+	top: 0;
+	bottom: 0;
+	right: 0;
+	left: 0;
+	align-items: center;
+	z-index: 99;
+	background: #9e9e9ec4;
+	padding:30px 0;
+}
+.modal {
+	background: #fff;
+	width: 300px;
+	margin: 0 auto;
+}
+.modal__text {
+	font-size: 20px;
+	margin-bottom: 50px;
+}
+.none {
+	display: none;
+}
+.block {
+	display: block;
+}
